@@ -66,7 +66,6 @@ while True:
             int(input("Nilai UAS\t\t : "))
         )
         print("\nData berhasil ditambahkan")
-1
 
     elif menu == "2":
         print()
